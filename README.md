@@ -1,4 +1,4 @@
-# Reproducer for [Missing Set-Cookie header for WebSocket connection discussion](https://discuss.lightbend.com/t/missing-set-cookie-header-for-websocket-connection/514)
+# Reproducer for [Missing Set-Cookie header for WebSocket connection](https://discuss.lightbend.com/t/missing-set-cookie-header-for-websocket-connection/514) discussion
 
 ``Set-Cookie`` header is filtered out when application is started using Lagom components.
 
